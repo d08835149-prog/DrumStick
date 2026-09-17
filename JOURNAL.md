@@ -14,3 +14,13 @@ Since the components had to fit within the compact form factor of a drumstick, t
 ![Component Survey](images/DrumStick.png)
 
 **Total time spent: 2 hours**
+
+# September 16: I created a circuit diagram using drumstick parts.
+
+I created the schematic in KiCad using the components I had selected beforehand.
+
+I encountered an error during the process and resolved it by editing the symbol—something I had never done before. I plan to handle footprint assignment and the PCB layout tomorrow.
+
+![SCH](images/SCH.png)
+
+**Total time spent: 4 hours**
