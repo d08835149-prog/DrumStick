@@ -24,3 +24,13 @@ I encountered an error during the process and resolved it by editing the symbolâ
 ![SCH](images/SCH.png)
 
 **Total time spent: 4 hours**
+
+# September 18: Footprint and PCB Fabrication
+Today, I added footprints to all components and designed the PCB. 
+
+During the design process, I spent three hours just fixing it because routing at the USB-C connector was impossible... only to find out it was just a board configuration issue...
+
+![PCB](images/PCB.png)
+
+**Total time spent: 7 hours**
+
