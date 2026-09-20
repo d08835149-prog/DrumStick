@@ -34,3 +34,14 @@ During the design process, I spent three hours just fixing it because routing at
 
 **Total time spent: 7 hours**
 
+# September 19: Footprint and PCB Fabrication
+Today, I drew the circuit diagram for the drum kick pad.
+
+I decided to copy and paste the footprints and symbols of the parts used on the drumsticks,
+which caused footprint errors, so it took a long time to fix them. 
+(Note: Administrator, please do not delete this; you only need to delete the two items below it. Thank you.)
+
+![KICKPAD](images/KICKPAD.png)
+
+**Total time spent: 6 hours**
+
