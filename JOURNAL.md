@@ -26,17 +26,6 @@ I encountered an error during the process and resolved it by editing the symbolâ
 **Total time spent: 4 hours**
 
 # September 19: Footprint and PCB Fabrication
-Today, I drew the circuit diagram for the drum kick pad.
-
-I decided to copy and paste the footprints and symbols of the parts used on the drumsticks,
-which caused footprint errors, so it took a long time to fix them. 
-(Note: Administrator, please do not delete this; you only need to delete the two items below it. Thank you.)
-
-![KICKPAD](images/KICKPAD.png)
-
-**Total time spent: 6 hours**
-
-# September 19: Footprint and PCB Fabrication
 Today, I added footprints to all components and designed the PCB. 
 
 During the design process, I spent three hours just fixing it because routing at the USB-C connector was impossible... only to find out it was just a board configuration issue...
@@ -46,4 +35,15 @@ I am reposting this because, while deleting duplicate journal entries, I acciden
 ![PCB](images/PCB.png)
 
 **Total time spent: 7 hours**
+
+# September 19: Footprint and PCB Fabrication
+Today, I drew the circuit diagram for the drum kick pad.
+
+I decided to copy and paste the footprints and symbols of the parts used on the drumsticks,
+which caused footprint errors, so it took a long time to fix them. 
+I am reposting this because, while deleting duplicate journal entries, I accidentally deleted some that should not have been removed.
+
+![KICKPAD](images/KICKPAD.png)
+
+**Total time spent: 6 hours**
 
