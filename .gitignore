@@ -1,0 +1,27 @@
+# Build
+build/
+out/
+dist/
+
+# Nordic / Zephyr
+build-*/
+west-build/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Node / TypeScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.bak
+*.swp
